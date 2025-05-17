@@ -16,6 +16,8 @@ I’m a bachelor in Electronic Engineering and passionate about **Data Analysis*
 - I'm currently pursuing a specialization in Enterprise Application Development with Java.
 - I'm currently pursuing a specialization in Data Science with Python.
 
+---
+
 ### 🖥️ **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
