@@ -1,4 +1,19 @@
-### **Hello there, I'm Hans Ore 👋**
+<h1 align="center"><b>Hi , I'm Hans Ore </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+[![Capsule Render](https://capsule-render.vercel.app/api?type=waving&color=00008B&height=150&section=header&text=Hans%20Ore&fontSize=75&fontColor=ffffff)](https://github.com/hansorealva19)
+
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50" />
+</div>
+
+<div align="center">
+  
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="Github" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="RestAPI" width="50" height="50" />
+</div>
 
 ---
 
