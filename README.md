@@ -5,11 +5,16 @@
 ### 🧑‍💻 **About Me**
 
 - 🎓 **Studies:** Electronic Engineering ⚛️
-- 🏫 **University:** [Pontificia Universidad Católica del Perú](https://www.pucp.edu.pe/) 📚🇨🇴
+- 🏫 **University:** [Pontificia Universidad Católica del Perú](https://www.pucp.edu.pe/) 📚
 
 I’m a bachelor in Electronic Engineering and passionate about **Data Analysis**, **Machine Learning**, **Finances**and **Backend Development**. I thrive on solving problems through technology, blending mathematics, science, and programming to create impactful and efficient solutions.
 
 ---
+
+### 🧠 **What I'm Learning Now**
+
+- I'm currently pursuing a specialization in Enterprise Application Development with Java.
+- I'm currently pursuing a specialization in Data Science with Python.
 
 ### 🖥️ **Languages**
 
